@@ -33,9 +33,7 @@ A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Playable
 1.**Starting the Game:** Open the 'index.html' file in a web browser. The game board will be displayed.
 
 2.**Playing the Game:** -Click on an empty cell to place your symbol (X or O).
-
                         -Players alternate turns, starting with X.
-
                         -The game will automatically detect if a player wins or if the game ends in a draw.
 
 3.**Resetting the Game:**-Click the "Reset Game" button to clear the board and start a new game.
