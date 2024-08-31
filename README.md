@@ -48,5 +48,19 @@ A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Playable
 -**JavaScript:** For game logic, handling user interactions, and determining win conditions.
 
 ## Example
-![Tic Tac Toe Screenshot]()
+Here’s a basic example of how the game looks:
+![Tic Tac Toe Screenshot](Sample.png)
+
+## Contributing
+If you want to contribute to this project, follow these steps:
+-**Fork the Repository:** Create a copy of the repository under your GitHub account.
+-**Create a Branch:** Develop your changes on a separate branch.
+-**Commit Your Changes:** Write clear, concise commit messages.
+-**Submit a Pull Request:** Provide a description of the changes you’ve made.
+Feel free to report issues or suggest improvements by opening an issue on the GitHub repository.
+
+## Licence
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
