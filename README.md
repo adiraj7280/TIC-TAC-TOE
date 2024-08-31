@@ -30,6 +30,7 @@ A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Playable
    Open 'index.html' in your favorite web browser to start playing the game.
 
 ## Usage
+
 1.**Starting the Game:** Open the 'index.html' file in a web browser. The game board will be displayed.
 
 2.**Playing the Game:** -Click on an empty cell to place your symbol (X or O).
@@ -39,21 +40,26 @@ A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Playable
 3.**Resetting the Game:**-Click the "Reset Game" button to clear the board and start a new game.
 
 ## Game Rules
+
 -The game is played on a 3x3 grid.
 -Players take turns placing their symbols (X and O) in empty cells.
 -The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 -If all cells are filled without a winner, the game ends in a draw.
 
 ## Technologies Used
+
 -**HTML:** For the structure of the game board.
 -**CSS:** For styling and layout of the game board and cells.
 -**JavaScript:** For game logic, handling user interactions, and determining win conditions.
 
 ## Example
+
 Here’s a basic example of how the game looks:
+
 ![Tic Tac Toe Screenshot](Sample.png)
 
 ## Contributing
+
 If you want to contribute to this project, follow these steps:
 -**Fork the Repository:** Create a copy of the repository under your GitHub account.
 -**Create a Branch:** Develop your changes on a separate branch.
