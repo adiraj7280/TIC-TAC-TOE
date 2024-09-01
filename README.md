@@ -26,12 +26,12 @@ A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Playable
 2. **Navigate to the Project Directory**
    cd Tic-Tac-Toe
 
-3. **Open the 'index.html' File**
-   Open 'index.html' in your favorite web browser to start playing the game.
+3. **Open the `index.html` File**
+   Open `index.html` in your favorite web browser to start playing the game.
 
 ## Usage
 
-1.**Starting the Game:** Open the 'index.html' file in a web browser. The game board will be displayed.
+1.**Starting the Game:** Open the `index.html` file in a web browser. The game board will be displayed.
 
 2.**Playing the Game:** -Click on an empty cell to place your symbol (X or O).
                         Players alternate turns, starting with X.
