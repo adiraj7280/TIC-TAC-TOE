@@ -15,6 +15,7 @@ A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Playable
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Technologies Used](#technologies-used)
+- [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
 
